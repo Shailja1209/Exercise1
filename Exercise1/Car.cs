@@ -9,6 +9,8 @@ namespace ITExpertsEraSep2023
     public class Car
     {
         public int speed = 10;
+        //create new variable
+        public int NumberOfSeats = 6;
         public string Name { get; set; }
         public string Brand { get; set; }
         public string Color { get; set; }
