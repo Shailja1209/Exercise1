@@ -12,6 +12,8 @@ namespace ITExpertsEraSep2023
         //create new variable
         public int NumberOfSeats = 6;
         public string Colour = "Red";
+        public string Colour2 = "White";
+
         public string Name { get; set; }
         public string Brand { get; set; }
         public string Color { get; set; }
